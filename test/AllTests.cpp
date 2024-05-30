@@ -1,5 +1,4 @@
-// Copyright 2020 GHA Test Team
-
+// Copyright 2024 Nedelin Dmitry
 #include <gtest/gtest.h>
 
 int main(int argc, char **argv) {
